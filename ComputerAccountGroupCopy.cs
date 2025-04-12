@@ -145,7 +145,7 @@ namespace ComputerAccountGroupCopy
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ComputerAccountGroupCopy (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ComputerAccountGroupCopy");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
